@@ -1,0 +1,14 @@
+Problem				Weight			Priority
+
+No: 4				10			1
+
+No: 5				8			2
+
+No: 3				7			3
+
+No: 2				6			4
+
+No: 1				5			5
+
+No: 6				4			6
+
