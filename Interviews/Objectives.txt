@@ -1,0 +1,15 @@
+objectives:
+
+Pro 4: Web Service, Social Activity, Achievements (photo album, youtube video), employee facilities, product quality, green technologies, SEO, Recognitions & awards
+
+Pro 5: Career, Notice option, internship opportunity, part time job, job
+
+Pro 3: categorized produt list with images, details
+
+Pro 2: Client list
+
+Pro 1: included in product list
+
+Pro 6: email, phone, social plugin, email for all official staffs. Specific options and others in contact section
+
+Pro 7: Modern and new technologies and machineries
