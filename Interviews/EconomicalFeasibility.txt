@@ -1,0 +1,21 @@
+Economical Feasibility:
+
+Costs:
+
+1) Development Cost = 12000 Tk
+
+2) Fixed Cost = Development Cost = 12000 Tk
+
+Variable Cost = Maintainance Cost = 5000 Tk
+
+Operational Cost = 60000 Tk (1 year)
+Suppose,
+
+	Server-cost = 1000 Tk
+	Maintainance-Team-Cost = 2000 Tk
+	Benefit = Reciveced Operational Cost - Actual Operational Cost
+		= 5000 - (1000 + 2000 )
+		= 2000 Tk
+	It depends on which situation occured. That vaires that the project is gained benefit or loss
+
+
