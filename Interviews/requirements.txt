@@ -1,0 +1,7 @@
+Requirements:
+
+
+1. Easy to access GUI, Admin panel
+2. Web Security (No inappropriate data on the web)
+3. Social network plug-ins(Fb pages, youtube channel, wikkipedia page)
+4. Optimized search.

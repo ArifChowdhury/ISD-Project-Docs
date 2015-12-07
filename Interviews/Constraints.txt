@@ -1,0 +1,7 @@
+Constraints:
+
+
+1. deploy within 2 month after signing in contact
+
+2. 2 years maintainance 
+3. Total budget(including 2 yrs maintanance): 100,000
